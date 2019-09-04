@@ -2,3 +2,6 @@ Ini Script Pertama Saya
 -Web Ini akan Saya Bandung untuk Kebutuhan E-Commorce
 -Buat Transaksi Penjualan
 -Buat Laporan Penjualan
+-Membuat Menu SideBar
+-Membuat Menu footer
+-Membuat Menu Header
